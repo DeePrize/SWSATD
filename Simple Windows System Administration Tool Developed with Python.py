@@ -3,7 +3,7 @@ import shutil
 import psutil
 import platform
 import subprocess
-import webbrowser # bu modül değişecek hava durumu için
+import webbrowser
 import requests
 from bs4 import BeautifulSoup
 import pyautogui
